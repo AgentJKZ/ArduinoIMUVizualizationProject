@@ -1,4 +1,4 @@
-# ArduinoIMUVizualizationProject
+# Arduino_IMU_Vizualization_Project
 Attitude Visualization Project utilizing Arduino R3 Uno, MPU6050, Matlab, and Arduino IDE.
 Developed a real-time inertial measurement system to estimate roll, pitch, and yaw estimate, characterize sensor behavior, and visualize aircraft attitude in MATLAB.
 The MPU6050 has a built in accelerometer and gyroscope, but is lacking a magnetometer, and can therefore only accurately measure roll and pitch. The best that can be achieved for yaw is an estimate. 
